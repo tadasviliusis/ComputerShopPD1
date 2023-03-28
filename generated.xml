@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Account>
+    <id>1</id>
+    <userName>Tadas</userName>
+    <password>1515</password>
+    <clientShipping>
+        <id>1</id>
+        <phoneNumber>869784526</phoneNumber>
+        <address>Verkiu g.45</address>
+        <postCode>LT00762</postCode>
+    </clientShipping>
+    <categories>
+        <id>1</id>
+        <categorieName>Motherboard</categorieName>
+        <components>
+            <id>1</id>
+            <componentName>Asus ROG STRIX B550</componentName>
+            <price>120.99</price>
+        </components>
+        <components>
+            <id>2</id>
+            <componentName>Gigabyte Elite AX V2</componentName>
+            <price>169.99</price>
+        </components>
+    </categories>
+</Account>

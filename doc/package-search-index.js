@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lt.viko.eif.tviliusis.computershopsystem.model"},{"l":"lt.viko.eif.tviliusis.computershopsystem.util"}];updateSearchResults();
